@@ -132,7 +132,7 @@ streamlit run app.py
 
 Search functionality - Type song name or artist to find songs
 Popular songs section - Browse top popular songs if you're unsure
-Select button - Choose the song you want to listen to
+Select button - Choose the song you want to listen to now
 
 ## Step 2: Similar Recommendations
 
