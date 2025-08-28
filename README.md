@@ -50,7 +50,6 @@ Artist-level popularity comparisons.
 ![Project view1](images/1.png)
 ![Project view2](images/2.png)
 ![Project view3](images/3.png)
-![Project view4](images/4.png)
 
 # 🎵 Music Recommendation System - Setup Instructions
 
@@ -158,6 +157,8 @@ Audio feature similarity to your selected song
 Age group preferences for better matching
 Popularity score for quality assurance
 ## Troubleshooting
+
+![Project view4](images/4.png)
 
 **Error: "Dataset file not found"**
 - Make sure `cleaned_genres_data.csv` is in the same folder as `app.py`
